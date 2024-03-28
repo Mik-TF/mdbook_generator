@@ -1,0 +1,10 @@
+
+- [Legal](legal/legal_home.md)   
+- [Terms Conditions](legal/terms_conditions_all3.md)
+- [Definitions](legal/definitions_legal.md)
+- [Disclaimer](legal/disclaimer.md)
+- [farmer_terms_conditions](legal/terms_conditions_farmer3.md)
+- [terms_conditions_websites](legal/terms_conditions_websites.md)
+- [terms_conditions_grid](legal/terms_conditions_tfgrid3.md)
+- [privacypolicy](legal/privacypolicy.md)
+- [T&C TFTech](legal/terms_conditions_sales.md)

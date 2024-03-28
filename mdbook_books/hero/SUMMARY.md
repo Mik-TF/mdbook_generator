@@ -1,0 +1,5 @@
+- [Intro](hero/intro.md)
+- [Social Protocols](social_media_protocols/protocols.md)
+  - [activity pub](social_media_protocols/activitypub.md)
+  - [nostr](social_media_protocols/nostr.md)
+- [ThreeFold Tech Overview](https://info.ourworld.tf/tech)

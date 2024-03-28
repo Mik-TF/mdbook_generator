@@ -1,0 +1,6 @@
+docs/*
+docs
+docs/
+book/
+.vscode
+.DS_Store
