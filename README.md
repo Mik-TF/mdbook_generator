@@ -42,11 +42,11 @@ make serve
 
 ## How to Create a New Book
 
-- Create a new folder with the book name in mdbooks_books
+- Create a new folder with the book name in `mdbook_books`
 - Within the folder, add the files: 
   - Necessary: `SUMMARY.md`, `book.toml`
   - Optional: `.gitignore` and scripts [(more info below)](#notes-on-using-scripts)
-- In `src`, add the files and directories needed to create your book
+- In `src`, add the directories and files needed to create your book
 - Run `make build BOOK="book_name"`
 - Run `make serve`
 
