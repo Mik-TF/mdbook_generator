@@ -1,3 +1,0 @@
-# project info
-
-This section lists lots of info in relation to the why, what, ...

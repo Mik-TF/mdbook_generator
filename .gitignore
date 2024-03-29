@@ -4,8 +4,3 @@ docs/
 book/
 .vscode
 .DS_Store
-src/knowledge_base/about/token_overview/special_wallets/wallet_data/
-src/knowledge_base/about/token_overview/special_wallets/wallet_data/*
-src/info_grid_values/*_MTFT_HOUR.md
-src/info_grid_values/tft_value.md
-src/info_grid_values/tft_marketcap.md
