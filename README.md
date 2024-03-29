@@ -31,7 +31,7 @@ git clone https://github.com/Mik-TF/mdbook_generator
 ```
 cd mdbook_generator
 ```
-- Build the book (e.g "info_grid", "mbweni")
+- Build the book (e.g "book_1", "book_2")
 ```
 make build BOOK="book_name"
 ```
@@ -52,11 +52,11 @@ make serve
 
 ## Notes on Using Scripts
 
-To use scripts to preprocess your mdbooks, you need to create a script called `first_script` that calls the other scripts. See `info_grid` mdbook as an example.
+To use scripts to preprocess your mdbooks, you need to create a script called `first_script` that calls the other scripts. Books `book_1` and `book_2` set as examples provide a basic template to use scripts.
 
 ## Notes on Prerequisites
 
-Some mdbooks require different preprocessors (e.g. mermaid, last-changed). Set such prerequisites to your machine if needed.
+Different mdbooks can require different preprocessors (e.g. mermaid, last-changed). Make sure to set such prerequisites if needed.
 
 ## References
 
