@@ -33,7 +33,7 @@ cd mdbook_generator
 ```
 - Build the book (e.g "book_1", "book_2")
 ```
-make build BOOK="book_name"
+make build book="book_name"
 ```
 - Serve the book
 ```
