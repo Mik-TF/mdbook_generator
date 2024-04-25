@@ -1,8 +1,8 @@
-BOOK = "info_grid" # set default book to info_grid
+book = "book_1" # set default book
 build:
 	@echo "Running book generation script"
-	./scripts/generate_book.sh $(BOOK)
-	@echo "Building the book: $(BOOK)"
+	./scripts/generate_book.sh $(book)
+	@echo "Building the book: $(book)"
 	mdbook build -d docs
 
 serve:
