@@ -18,7 +18,7 @@ This mdbook generator builds different mdbooks from different mdbook template fi
 
 ## Prerequisites
 
-- mdbook
+- [mdbook](https://rust-lang.github.io/mdBook/guide/installation.html)
 - make
 
 ## How to Use
