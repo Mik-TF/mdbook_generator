@@ -47,7 +47,7 @@ make serve
   - Necessary: `SUMMARY.md`, `book.toml`
   - Optional: `.gitignore` and scripts [(more info below)](#notes-on-using-scripts)
 - In `src`, add the directories and files needed to create your book
-- Run `make build BOOK="book_name"`
+- Run `make build book="book_name"`
 - Run `make serve`
 
 ## Notes on Using Scripts
